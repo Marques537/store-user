@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://docker:mongopw@localhost:49153
+      database: user-store
